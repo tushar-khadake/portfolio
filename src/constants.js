@@ -41,7 +41,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // Education Section Logo's
 import glaLogo from './assets/education_logo/mit_logo.png';
 import bsaLogo from './assets/education_logo/12th_c_logo.png';
-import vpsLogo from './assets/education_logo/educational.png';
+import vpsLogo from './assets/education_logo/Educational.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/electronics_store_03.png';
